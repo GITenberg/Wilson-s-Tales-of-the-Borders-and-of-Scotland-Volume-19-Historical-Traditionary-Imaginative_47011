@@ -1,4 +1,5 @@
 _repo: Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-19-Historical-Traditionary-Imaginative_47011
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,6 +8,9 @@ contributor:
       deathdate: 1874
       gutenberg_agent_id: '32366'
       url: http://www.gutenberg.org/2009/agents/32366
+covers:
+- cover_type: archival
+  image_path: 47011-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47011#Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-19-Historical-Traditionary-Imaginative
 gutenberg_issued: '2014-09-30'
 gutenberg_type: Text
 identifiers:
