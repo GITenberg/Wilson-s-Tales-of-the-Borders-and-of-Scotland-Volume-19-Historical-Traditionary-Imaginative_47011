@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Wilson''s Tales of the Borders and of Scotland, Volume 19
 
   Historical, Traditionary, & Imaginative'
